@@ -7,7 +7,7 @@
 }
 
 .player {
-	border: 2px solid #f6546a;
+	border: 2px solid white;
 	border-radius: 5%;
 	padding: .5rem 0;
 	display: flex;
